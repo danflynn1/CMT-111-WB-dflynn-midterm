@@ -138,8 +138,6 @@ section img {
 }
 section img:hover{
     opacity: 100%;
-    width: 220px;
-    height: auto;
 }
 section h2 {
     display: inline-block;
