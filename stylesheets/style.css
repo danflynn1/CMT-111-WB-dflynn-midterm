@@ -151,6 +151,7 @@ section h2 {
 section p {
     width: 60%;
     margin: auto;
+    padding-bottom: 20px;
 }
 
 /* -----Footer----- */
